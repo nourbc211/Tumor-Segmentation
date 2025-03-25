@@ -15,7 +15,7 @@ We implement and compare the following segmentation models:
 
 - **U-Net** : as a baseline model
 - **Attention U-Net**
-- **U-Net with **ResNet** and **EfficientNet** encoders.
+- **U-Net** with **ResNet** and **EfficientNet** encoders.
 
 ## Evaluation Metrics
 
